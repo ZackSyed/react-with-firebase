@@ -23,4 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # key 
-/src/firebase_config.js
+/src/firebaseConfig.js
+
+# random files 
+/src/App.test.js
+/src/serviceWorker.js

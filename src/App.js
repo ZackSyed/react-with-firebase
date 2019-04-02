@@ -1,7 +1,7 @@
 import React, { Component } from 'react'; 
 import FileUploader from 'react-firebase-file-uploader';
 import firebase from 'firebase';
-import config from './firebase_config';
+import config from './firebaseConfig';
 import './App.css';
 
 firebase.initializeApp(config)
